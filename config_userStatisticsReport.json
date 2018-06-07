@@ -1,0 +1,21 @@
+[{
+    "filenameBar" : "uniqueUsersBar.png",
+    
+    "filenameGraph" : "uniqueUsersGraph.png",
+
+    "scpCmd" : "scp -i ~/.ssh/id_itam",
+
+    "logInId" : "svcampsappqa",
+
+    "plottingPath" : "../DevOps/DailyMetrics/",
+
+    "logLocation" : "/data/amps_batch/getAppLogs",
+    
+    "logfile" : "userStatisticsReport.log",
+
+    "loggingFormat" : "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+
+    "mongodbUserPass": "...user..pass.."
+
+  
+}]
